@@ -1,0 +1,22 @@
+/* header part */
+
+header {
+    background-color: #FFFBF0;
+    padding-bottom: 80px;
+    margin-bottom: 50px;
+}
+
+.heading-color-1 {
+    color: #FABE4C;
+}
+
+.heading-color-2 {
+    color: #363958;
+}
+
+/* card start */
+
+.card-image-background {
+    background-color: #F1F1F1;
+}
+
